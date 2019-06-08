@@ -11,7 +11,7 @@ public class ConfigApplication {
 	public static void main(String[] args) {
 		new SpringApplicationBuilder(ConfigApplication.class).run(args);
 	}
-	
+	 
 	public static void main1(String[] args) {
 		new SpringApplicationBuilder(ConfigApplication.class).run(args);
 	}
