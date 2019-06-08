@@ -1,0 +1,6 @@
+
+git init 
+git add .
+git remote add origin https://github.com/poornachandu88/microservices-app.git
+git push -u origin master
+git commit -m "first commit"
